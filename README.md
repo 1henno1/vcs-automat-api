@@ -1,5 +1,7 @@
 # vcs-automat-api
 
+**This repo has been archived.** Please find the current version on the [VCS GitLab server](https://gitlab.ethz.ch/vcs/vcs-automat).
+
 #### Install necessary packages
 ```bash
 sudo apt-get install php-mysqli python3 python3-matplotlib python3-mysql.connector python3-numpy
